@@ -1,4 +1,4 @@
-﻿package com.Tags
+package com.Tags
 
 import com.util.Tag
 import org.apache.commons.lang3.StringUtils
@@ -22,8 +22,5 @@ object TagsLocation extends Tag{
       list :+=("ZC"+city,1)
     }
     list
-
-
-测试的
   }
 }
